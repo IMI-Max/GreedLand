@@ -1,0 +1,2 @@
+# GreedLand
+Good

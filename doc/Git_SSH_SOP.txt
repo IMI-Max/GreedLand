@@ -1,0 +1,19 @@
+1. open gitBash
+
+2. cd /c/users/your windows account
+
+3. ssh-keygen -t rsa -C "youremail@emailhost" (gitHub account)
+
+4. enter until finish
+
+5. login gitHub -> press setting-> add ssh -> paste id_rsa.pub key 
+
+6. ssh run in cmd (setting env. variable)
+
+7. create Git.ssh folder in C:\Program Files (x86)
+
+8. copy id_rsa.pub to Git.ssh
+
+9. ssh -T git@github.com (run in cmd)
+
+10. git remote set-url origin git@github.com:YOUR_GIT

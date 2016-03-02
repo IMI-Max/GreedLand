@@ -26,6 +26,26 @@ def doParse(desc, url):
         print len(dian)
         print len(diav)
 
+
+def queryParseWorkList():
+    connection = httplib.HTTPSConnection('api.parse.com', 443)
+    params = urllib.urlencode({"where":json.dumps({
+           "isWork": True
+         })})
+    connection.connect()
+    #'''
+    connection.request('GET', '/1/classes/ParseWorkList?%s' % params, '', {
+           "X-Parse-Application-Id": "1B4lAQPlSyf21OWEW4wsBxHGJtJOD5K2zQ4wquUH",
+           "X-Parse-REST-API-Key": "GO8568E0Uw5j6kNidppxqyTJBXc4x6JSvE1rv3pj"
+         })
+    result = json.loads(connection.getresponse().read())
+    
+    #'''s
+    
+    #print result
+    #print len(result)
+    return result['results']
+
 def queryCurrencyRatioDb(currencyTo):
     connection = httplib.HTTPSConnection('api.parse.com', 443)
     params = urllib.urlencode({"where":json.dumps({
@@ -78,7 +98,7 @@ def getDictFromDb(resultJsonFromDb):
         dictFromDb[(i['desc'],i['ign'],i['price'])] = i
         
     return dictFromDb
-
+def quecyParse
 
 url = "http://poe.trade/search/adukotonohotas"
 

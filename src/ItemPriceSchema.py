@@ -7,8 +7,8 @@ MASTER_KEY = "MRv0ZczdLEsccVxWYAdlaF1aIV3EM3iUl2sP7pKb"
 connection = httplib.HTTPSConnection('api.parse.com', 443)
 connection.connect()
 connection.request('POST', '/1/schemas/ItemPrice', json.dumps({
-     "className":"ItemPrice","fields":{"desc":{"type":"String"}, "ign":{"type":"String"}, "price":{"type":"String"}
-                                       , "currencyTo":{"type":"String"}, "isOnline":{"type":"Boolean"}, "itemInfo":{"type":"Boolean"} }
+     "className":"ItemPrice","fields":{"desc":{"type":"String"}, "ign":{"type":"String"}, "price":{"type":"Number"}
+                                       , "currencyTo":{"type":"String"}, "isOnline":{"type":"Boolean"}, "itemInfo":{"type":"String"} }
      }), {
        "X-Parse-Application-Id": APPLICATION_ID,
        "X-Parse-Master-Key": MASTER_KEY,

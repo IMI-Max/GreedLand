@@ -1,4 +1,4 @@
-<table><tr><td bgcolor=112233>背景色是：orange</td></tr></table>
+<table><tr><td bgcolor=112233>  </td></tr></table>
 
 
 -7/31

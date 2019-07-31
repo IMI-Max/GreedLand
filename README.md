@@ -1,4 +1,4 @@
-<table><tr>背景色是：orange</tr></table>
+<table><tr><td bgcolor=>背景色是：orange</td></tr></table>
 6196帆宣
 
 警示設定52.8，跌到52.5出場

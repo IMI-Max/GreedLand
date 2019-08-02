@@ -2,7 +2,7 @@
 
 -8/2
 
-<table><tr><td bgcolor=112233>  </td></tr></table>
+<table><tr><td bgcolor=112233> 08:13 台泥今天應該也會小跌 我想放到除息錢 在看 你覺得呢 </td></tr></table>
 
 -8/1
 

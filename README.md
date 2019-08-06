@@ -21,9 +21,7 @@
 
 -8/5
 
-<table><tr><td bgcolor=112233>
- 
- </td></tr></table>
+
 
 -8/2
 

@@ -2,6 +2,15 @@
  
  </td></tr></table>
 
+-8/6
+
+<table><tr><td bgcolor=112233>
+ 
+ 今天該賣嗎？
+ 
+ </td></tr></table>
+
+
 -8/5
 
 <table><tr><td bgcolor=112233>

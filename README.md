@@ -6,6 +6,7 @@
 
 <table><tr><td bgcolor=112233>
  08:09 今天該賣嗎？
+ 08:16 等盤中看一下
  </td></tr></table>
 
 

@@ -6,7 +6,7 @@
 -8/7
 
 <table><tr><td bgcolor=112233>
-
+08:21 美股大漲 300點
  </td></tr></table>
 
 -8/6

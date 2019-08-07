@@ -5,11 +5,10 @@
 
 -8/7
 
-<table><tr><td bgcolor=112233>
 08:21 美股大漲 300點
 
+<table><tr><td bgcolor=112233>
 08:50 都開高先不買
-
 </td></tr></table>
 
 -8/6

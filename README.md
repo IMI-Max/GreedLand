@@ -7,8 +7,10 @@
 
 08:21 美股大漲 300點
 
-<table><tr><td bgcolor=112233>
 08:50 都開高先不買
+
+<table><tr><td bgcolor=112233>
+09:00 ok
 </td></tr></table>
 
 -8/6

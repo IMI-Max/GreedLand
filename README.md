@@ -12,6 +12,9 @@
 <table><tr><td bgcolor=112233>
 老川，沒有美金了怎阻貶
 智邦 剛剛宣佈置智邦似乎沒有被納入
+ 
+MSCI季度調整 台股成分股不變
+https://udn.com/news/story/7251/3976617
 </td></tr></table>
 
 -8/7

@@ -13,7 +13,7 @@
 https://udn.com/news/story/7251/3976617
 
 <table><tr><td bgcolor=112233>
-08:4 這樣智邦 應該會開始震盪一點
+08:49 這樣智邦 應該會開始震盪一點
 </td></tr></table>
 
 -8/7

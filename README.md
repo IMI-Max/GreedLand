@@ -2,6 +2,11 @@
 
 </td></tr></table>
 
+-8/8
+
+<table><tr><td bgcolor=112233>
+
+</td></tr></table>
 
 -8/7
 
@@ -9,9 +14,7 @@
 
 08:50 都開高先不買
 
-<table><tr><td bgcolor=112233>
 09:00 ok
-</td></tr></table>
 
 -8/6
 

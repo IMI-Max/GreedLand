@@ -19,8 +19,10 @@
 
 10:55 OK 43.9出，賣壓太重了
 
-<table><tr><td bgcolor=112233>
 13:26 台泥 尾盤 43.95 倒了 2242張
+
+<table><tr><td bgcolor=112233>
+13:32 OK
 </td></tr></table> 
 
 -8/8

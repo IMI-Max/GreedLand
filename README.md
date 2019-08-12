@@ -3,10 +3,11 @@
 </td></tr></table>
 -8/12
 
-<table><tr><td bgcolor=112233>
  08:35 台泥開盤開低 42元 丟了 4600張
-</td></tr></table> 
 
+<table><tr><td bgcolor=112233>
+ 08:36 8:50在看吧我覺得是假的，沒新聞亞泥信大都正常
+</td></tr></table> 
 
 -8/8
 

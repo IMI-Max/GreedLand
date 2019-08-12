@@ -2,7 +2,7 @@
 
 </td></tr></table>
 -8/12
-
+08:35 台泥開盤開低 42元 丟了 4600張
 <table><tr><td bgcolor=112233>
 </td></tr></table> 
 

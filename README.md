@@ -1,6 +1,13 @@
 <table><tr><td bgcolor=112233>
 
 </td></tr></table>
+
+-8/13
+
+<table><tr><td bgcolor=112233>
+
+</td></tr></table>
+
 -8/12
 
  08:35 台泥開盤開低 42元 丟了 4600張
@@ -21,9 +28,7 @@
 
 13:26 台泥 尾盤 43.95 倒了 2242張
 
-<table><tr><td bgcolor=112233>
 13:32 OK
-</td></tr></table> 
 
 -8/8
 

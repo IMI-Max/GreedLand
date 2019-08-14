@@ -2,6 +2,12 @@
 
 </td></tr></table>
 
+-8/15
+
+<table><tr><td bgcolor=112233>
+
+</td></tr></table>
+
 -8/14
 
 08:28 目前蘋概股 5g pcb比較強

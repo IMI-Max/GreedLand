@@ -9,8 +9,11 @@
 13:26 確定買5張
 
 13:26 OK 
-<table><tr><td bgcolor=112233>
+
 13:26 2376 buy 46.30 *5 
+
+<table><tr><td bgcolor=112233>
+13:34 OK
 </td></tr></table>
 
 -8/14

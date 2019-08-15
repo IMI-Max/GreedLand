@@ -4,8 +4,9 @@
 
 -8/15
 
-<table><tr><td bgcolor=112233>
 技嘉尾盤買得到 確定要買嗎？
+<table><tr><td bgcolor=112233>
+13:26 確定買5張
 </td></tr></table>
 
 -8/14

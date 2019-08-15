@@ -7,8 +7,10 @@
 13:25 技嘉尾盤買得到 確定要買嗎？
 
 13:26 確定買5張
-<table><tr><td bgcolor=112233>
+
 13:26 OK 
+<table><tr><td bgcolor=112233>
+13:26 2376 buy 46.30 *5 
 </td></tr></table>
 
 -8/14

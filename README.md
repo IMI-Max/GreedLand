@@ -4,8 +4,10 @@
 
 -10/17
 
-<table><tr><td bgcolor=112233>
 09:40 在嗎? 總太發動了
+
+<table><tr><td bgcolor=112233>
+11:30 感覺開始漲不同的族群
 </td></tr></table> 
 
 ------

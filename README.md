@@ -2,11 +2,14 @@
 <table><tr><td bgcolor=112233>
 </td></tr></table>
 
--10/22
+-10/23
 
 <table><tr><td bgcolor=112233>
-11:01 總太爆量突破25
 </td></tr></table> 
+
+-10/22
+
+11:01 總太爆量突破25
 
 -10/21
 

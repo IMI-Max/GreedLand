@@ -2,11 +2,14 @@
 <table><tr><td bgcolor=112233>
 </td></tr></table>
 
--10/23
+-10/24
 
 <table><tr><td bgcolor=112233>
+</td></tr></table> 	
+
+-10/23
+
 09:06 合勤控無損點 20.75 10張
-</td></tr></table> 
 
 -10/22
 

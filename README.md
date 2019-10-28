@@ -2,11 +2,14 @@
 <table><tr><td bgcolor=112233>
 </td></tr></table>
 
--10/25
+-10/28
 
 <table><tr><td bgcolor=112233>
+</td></tr></table>
+
+-10/25
+
 09:38 廣明、旺宏都跟我講的一樣今天都先跌
-</td></tr></table> 	
 
 -10/24
 

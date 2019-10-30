@@ -2,10 +2,13 @@
 <table><tr><td bgcolor=112233>
 </td></tr></table>
 
--10/29
+-10/30
 
 <table><tr><td bgcolor=112233>
+08:17 2316楠梓電無損點42.5 * 5
 </td></tr></table>
+
+-10/29
 
 -10/28
 

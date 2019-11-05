@@ -1,12 +1,13 @@
 
 <table><tr><td bgcolor=112233>
 </td></tr></table>
-
--11/4
+-11/5
 
 <table><tr><td bgcolor=112233>
+</td></tr></table>
+
+-11/4
 09:22 楠梓電又崩了...
-</td></tr></table>	
 
 -11/1
 

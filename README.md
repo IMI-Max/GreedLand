@@ -2,14 +2,18 @@
 <table><tr><td bgcolor=112233>
 </td></tr></table>
 
+-11/29
+
+<table><tr><td bgcolor=112233>
+</td></tr></table>
+
 -11/28
 
 8:05 川普已簽署《香港人權與民主法案》
+
 8:47 健鼎開高要出嗎
 
-<table><tr><td bgcolor=112233>
 8:49 先掛漲停板，盤中觀察跌到 136就取消 (134.5打到出)
-</td></tr></table>
 
 -11/27
 

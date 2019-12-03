@@ -2,15 +2,16 @@
 <table><tr><td bgcolor=112233>
 </td></tr></table>
 
+-12/3
+
+<table><tr><td bgcolor=112233>
+</td></tr></table>
+
 -12/2
 
 09:46 在盤勢不好的情況下 一些籌碼集中在外資跟投信的股票 下跌速度可能較快
 
-<table><tr><td bgcolor=112233>
-	
 10:29 台幣 小漲 外資還沒走
-	
-</td></tr></table>
 
 -11/29
 

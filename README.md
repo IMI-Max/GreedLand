@@ -2,13 +2,16 @@
 <table><tr><td bgcolor=112233>
 </td></tr></table>
 
--12/12
+-12/13
 
 <table><tr><td bgcolor=112233>
+</td></tr></table>
+
+-12/12
+
 09:38 現在如何?
 	
 10:30 4113剛剛應該有高頻交易機器人跑進來
-</td></tr></table>
 
 -12/11
 

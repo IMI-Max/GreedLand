@@ -5,6 +5,7 @@
 -12/12
 
 <table><tr><td bgcolor=112233>
+09:38 現在如何?
 </td></tr></table>
 
 -12/11

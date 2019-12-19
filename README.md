@@ -5,6 +5,7 @@
 -12/19
 
 <table><tr><td bgcolor=112233>
+09:19 3044新聞https://money.udn.com/money/story/5612/4235473?utm_source=cmoney&utm_medium=ednrss
 </td></tr></table>
 
 -12/18

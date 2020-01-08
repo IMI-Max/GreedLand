@@ -2,13 +2,16 @@
 <table><tr><td bgcolor=112233>
 </td></tr></table>
 
--01/07
+-01/08
 
 <table><tr><td bgcolor=112233>
+</td></tr></table>
+
+-01/07
+
 09:16 3044 119.5 *3 buy
 
 09:26 OK
-</td></tr></table>
 
 -01/06
 

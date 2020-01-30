@@ -2,6 +2,11 @@
 <table><tr><td bgcolor=112233>
 </td></tr></table>
 
+-01/30
+
+<table><tr><td bgcolor=112233>
+</td></tr></table>
+
 -01/29
 
 健鼎開跌5%最低點 (看收盤)

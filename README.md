@@ -2,11 +2,14 @@
 <table><tr><td bgcolor=112233>
 </td></tr></table>
 
--01/30
+-01/31
 
 <table><tr><td bgcolor=112233>
-	11:40 總太 30.1 * 40 BUY
 </td></tr></table>
+
+-01/30
+
+11:40 總太 30.1 * 40 BUY
 
 -01/29
 

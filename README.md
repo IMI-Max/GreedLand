@@ -2,6 +2,11 @@
 <table><tr><td bgcolor=112233>
 </td></tr></table>
 
+-02/05
+
+<table><tr><td bgcolor=112233>
+</td></tr></table>
+
 -02/04
 
 13:00 1436 39.45 * 7 + 39.4 * 6 BUY

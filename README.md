@@ -2,6 +2,11 @@
 <table><tr><td bgcolor=112233>
 </td></tr></table>
 
+-02/10
+
+<table><tr><td bgcolor=112233>
+</td></tr></table>
+
 -02/07
 
 中國疫情尚未控制

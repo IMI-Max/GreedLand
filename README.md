@@ -6,7 +6,7 @@
 
 <table><tr><td bgcolor=112233>
 
-09:45 同欣電 155.5 
+09:45 同欣電 155.5*1 sold 
 	
 </td></tr></table>
 

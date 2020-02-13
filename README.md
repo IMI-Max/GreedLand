@@ -2,15 +2,16 @@
 <table><tr><td bgcolor=112233>
 </td></tr></table>
 
--02/12
+-02/13
 
 <table><tr><td bgcolor=112233>
+</td></tr></table>
+
+-02/12
 
 09:45 同欣電 155.5*1 sold 
 
 09:51 OK 討回上次隆大的一些錢
-	
-</td></tr></table>
 
 -02/11
 

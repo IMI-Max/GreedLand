@@ -4,6 +4,13 @@
 
 -02/20
 
+意法半導體與台積公司合作加速市場採用氮化鎵產品 
+https://www.tsmc.com/tsmcdotcom/PRListingNewsAction.do?action=detail&language=C&newsid=THHKPGPGTH
+ 
+STMicroelectronics and TSMC Collaborate to Accelerate Market Adoption of  Gallium Nitride-Based Products
+https://www.tsmc.com/tsmcdotcom/PRListingNewsAction.do?action=detail&language=E&newsid=THHKPGPGTH
+
+
 <table><tr><td bgcolor=112233>
 	
 	zesonpso

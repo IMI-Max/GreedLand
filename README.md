@@ -2,6 +2,11 @@
 <table><tr><td bgcolor=112233>
 </td></tr></table>
 
+-02/21
+
+<table><tr><td bgcolor=112233>
+</td></tr></table>
+
 -02/20
 
 意法半導體與台積公司合作加速市場採用氮化鎵產品 
@@ -11,7 +16,6 @@ STMicroelectronics and TSMC Collaborate to Accelerate Market Adoption of  Galliu
 https://www.tsmc.com/tsmcdotcom/PRListingNewsAction.do?action=detail&language=E&newsid=THHKPGPGTH
 
 
-<table><tr><td bgcolor=112233>
 	
 	zesonpso
 	
@@ -25,8 +29,6 @@ https://www.tsmc.com/tsmcdotcom/PRListingNewsAction.do?action=detail&language=E&
 
 多頭大將軍就照著基本面挑股 籌碼面進場 技術線型出場
 	
-	
-</td></tr></table>
 
 -02/19
 

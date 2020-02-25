@@ -2,6 +2,10 @@
 <table><tr><td bgcolor=112233>
 </td></tr></table>
 
+-02/25
+<table><tr><td bgcolor=112233>
+</td></tr></table>
+
 -02/24
 
 [EXT] 【日期更正(上課共6天+考試)，非常抱歉!】 開課通知: TSMC_AZ-400訓練3194002班 (週日班)

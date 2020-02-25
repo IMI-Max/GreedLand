@@ -1,4 +1,4 @@
--02/2
+-02/2X
 <table><tr><td bgcolor=112233>
 </td></tr></table>
 

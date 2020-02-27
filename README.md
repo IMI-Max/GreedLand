@@ -4,6 +4,7 @@
 
 -02/27
 <table><tr><td bgcolor=112233>
+	1436 華友聯 buy 38.70 *1
 </td></tr></table>
 
 -02/26

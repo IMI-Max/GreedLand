@@ -4,8 +4,7 @@
 
 -03/12
 
-<table><tr><td bgcolor=112233>
-</td></tr></table>
+8086 buy 86*2 sold 87.7*2
 
 -03/11
 

@@ -4,9 +4,8 @@
 
 -06/18
 
-<table><tr><td bgcolor=112233>
 08:50	健鼎 7/7 除息
-</td></tr></table>
+13:00 ZY -> 132*3 sold (cost 129.5)
 
 -06/17
 

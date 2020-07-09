@@ -2,10 +2,13 @@
 <table><tr><td bgcolor=112233>
 </td></tr></table>
 
--07/06
+-07/09
 
 <table><tr><td bgcolor=112233>
+2505 24.9*15 + 24.85*5
 </td></tr></table>
+
+-07/06
 
 -06/30
 

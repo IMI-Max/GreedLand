@@ -2,10 +2,11 @@
 <table><tr><td bgcolor=112233>
 </td></tr></table>
 
--07/13
+-07/16
 
-<table><tr><td bgcolor=112233>
-</td></tr></table>
+13:00 26.95 X25 + 27.05 X 10 Sell (+47,000)
+
+-07/13
 
 -07/10
 

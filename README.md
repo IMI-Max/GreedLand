@@ -3,7 +3,9 @@
 </td></tr></table>
 
 -10/07
+
 4967第二次可轉債轉換價42
+
 https://mops.twse.com.tw/mops/web/t120sg01?TYPEK=&bond_id=49672&bond_kind=5&bond_subn=%24M00000001&bond_yrn=2&come=2&encodeURIComponent=1&firstin=ture&issuer_stock_code=4967&monyr_reg=202009&pg=&step=0&tg=
 
 -09/28

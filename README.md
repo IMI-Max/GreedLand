@@ -1,3 +1,21 @@
+欣亞PC 22900+16470+2899+3606+4880 = $50,755元
+
+VGA 22900
+ASUS TUF RTX3080 10G 22,900元
+
+CPU 16470
+Ryzen 5900x $16,470元
+
+MEM 2899
+十銓DDR4 3200 16G*2 $2,899元
+
+ssd + cooler 3606
+蝦皮WD SN750 500G + 風魔2 $3,606元
+
+pw + case 4880
+【許願價】振華 Leadex III Gold 850W 80+金 (全模組/七年保固)+CM 酷碼 MasterBox MB511 透側機殼 (ATX/網孔面板/內建風扇後1/顯卡400mm/塔散165mm) $4,880元
+
+
 -03/1X
 <table><tr><td bgcolor=112233>
 </td></tr></table>

@@ -1,4 +1,4 @@
-The Falconeer Game Code: B4D0R-PEHZY-CPVC7
+C:\Users\zylin\Downloads\runasdate-x64\RunAsDate.exe /movetime 02\06\2020 00:00:00 "C:\Program Files\ASTER\mutectl.exe"
 
 -03/1X
 <table><tr><td bgcolor=112233>
